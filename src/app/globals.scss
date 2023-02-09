@@ -1,0 +1,22 @@
+:root {
+  --color-primary: #5762d5;
+  --color-secondary: #2e2f2f;
+  --color-gray: #acbdba;
+  --color-light: #cddddd;
+  --color-dark: #2e2f2f;
+  --color-black: #051014;
+
+  --font-color-primary: #000;
+  --font-color-secondary: #fff;
+
+  --font-size-xxl: 3rem;
+  --font-size-xl: 2rem;
+  --font-size-l: 1.5rem;
+  --font-size-m: 0.8rem;
+  --font-size-s: 0.7rem;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-light);
+}
